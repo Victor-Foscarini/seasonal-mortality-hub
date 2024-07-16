@@ -1,4 +1,4 @@
-# Seasonal_Mortality_Hub
+# Seasonal Mortality Hub
 
 This is the repository of the most critical code that I, Victor Foscarini Almeida, wrote during my master's degree, supervised by Fabio Kon and co-supervised by Raphael Carmago. The project was part of [InterSCity](https://interscity.org/) and [IME-USP's Systems group](https://www.ime.usp.br/en/computer-science-department/research/).
 
