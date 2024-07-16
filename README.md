@@ -13,3 +13,7 @@ The procedures of the research are also available on my medium:
 - [Transforming mortality data](https://medium.com/@victorfoscarini/refining-brazils-mortality-data-a-guide-to-transforming-sim-datasus-data-with-standardization-to-13ed10d6f808)
 
 - [Preprocessing climate data](https://medium.com/@victorfoscarini/processing-brazils-climate-data-aggregating-inmet-data-from-brazilian-state-capitals-912de4d55e32)
+
+# How to run
+
+The code was developed on Google Colab, making it the optimal platform for execution. However, it can also be run on a local machine using Jupyter Lab or Jupyter Notebook, or even on another cloud service. To do so, ensure you install the required libraries with the versions specified in the first code block of each notebook and update the path variables to suitable local paths
