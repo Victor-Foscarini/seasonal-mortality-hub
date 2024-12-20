@@ -20,6 +20,6 @@ The code was developed on Google Colab, making it the optimal platform for execu
 
 Core Developer: Victor Foscarini Almeida
 
-Supervisors: Profs. Fabio Kon, Raphael Carmago.
+Supervisors: Profs. Fabio Kon, Raphael Camargo.
 
 External advisor: Rudi Rocha
